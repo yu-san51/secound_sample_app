@@ -1,4 +1,4 @@
 class List < ApplicationRecord
-	attachment :image_id
+	attachment :image
 
 end
